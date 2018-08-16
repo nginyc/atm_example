@@ -118,14 +118,6 @@ curl -sS \
   http://<docker_host>:8000/classifiers/<best_classifier_id>/queries
 ```
 
-## TODO
-
-- Add custom algorithms to ATM e.g. deep learning models
-- Try images as input
-- Find a more distributed way of sharing model data
-
-## Resources
-
 ## Credits
 
 Original Auto-Tune Models (ATM) project: https://github.com/HDI-Project/ATM
